@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.container {
+    display: flex;
+}
+
+.second_col {
+    margin-left: 20px;
+}
+
+span {
+    color: #007185;
+}
+
+.breadcrumb {
+    color: #565959;
+}
